@@ -1,0 +1,466 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: 0px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+#top{
+    width: 100%;
+    float: left;
+}
+#orange{
+    width: 100%;
+    float: left;
+
+}
+.container-top{
+    width: 100%;
+    margin:20px auto;
+
+}
+.container-orange{
+    width: 100%;
+    float: left;
+    margin: auto;
+    background-image: url(../img/bg-orange.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: top;
+}
+nav{
+    width: 100%;
+    float: left;
+    background-color: #303030;
+    color:white
+}
+.musico-part{
+    width: 15%;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+}
+.menu-part{
+    width: 70%;
+    float: left;
+}
+.menu-part a{
+    color: white;
+}
+.menu-part li{
+    display: inline-block;
+    margin: 15px 30px;
+    background-color: transparent;
+    padding: 7px;
+    border-radius: 5px;
+    text-align: center;
+}
+.search-part{
+    width: 15%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+
+}
+nav img{
+    width: 20px;
+}
+.hero-part1{
+    width: 50%;
+    float: left;
+}
+.blank{
+    width: 50%;
+    float: left;
+}
+.hero-part{
+    width: 100%;
+    float: left;
+    background-image: url(../img/bg-header.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    text-align: center;
+}
+h1{
+    font-size: 35px;
+    font-weight: 600;
+    padding-top: 30px;
+}
+.hero-h1{
+    font-size: 35px;
+    font-weight: 600;
+    width: 60%;
+    margin:300px auto 20px;
+    color: white;
+    text-align: left;
+}
+.hero-part p{
+    color: white;
+    width: 60%;
+    text-align: left;
+    margin: auto;
+}
+.hero-part a button{
+    display: block;
+    background-color: #e8631c;
+    color: white;
+    width: 30%;
+    margin: 20px 30px 50px 123px;
+    padding: 7px 15px;
+}
+.orange-writing-part{
+    width: 100%;
+    float: left;
+    text-align: center;
+    margin: 30px auto 20px;
+}
+.orange-writing-part p{
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    margin: 30px auto 20px;
+}
+.orange-box-part{
+    width: 100%;
+    float: left;
+}
+.orange-box-part1{
+    width: 25%;
+    float: left;
+    background-color: black;
+    margin: 50px 42px ;
+}
+.orange-box-part2{
+    width: 25%;
+    float: left;
+    background-color: black;
+    margin: 50px 42px ;
+}
+.orange-box-part3{
+    width: 25%;
+    float: left;
+    background-color: black;
+    margin: 50px 42px ;
+}
+.orange-box-part1 h3{
+    color: white;
+    text-align: center;
+}
+.orange-box-part2 h3{
+    color: white;
+    text-align: center;
+}
+.orange-box-part3 h3{
+    color: white;
+    text-align: center;
+}
+.orange-box-part1 h5{
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+}
+.orange-box-part2 h5{
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+}
+.orange-box-part3 h5{
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+}
+.container-black{
+    width: 100%;
+    float: left;
+    background: url(../img/bg-black.png) no-repeat fixed center ;
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+    color: white;
+}
+
+.black-box-part1{
+    width: 25%;
+    float: left;
+    background-color:#e8631c;
+    margin: 50px 42px ;
+    text-align: center;
+    border-radius: 5px;
+}
+.black-box-part1 img{
+    margin: 50px 42px ;
+}
+.black-box-part1 h3{
+    margin: 30px 42px ;
+}
+.black-box-part1 h5{
+    margin: 30px 30px ;
+}
+.black-box-part2{
+    width: 25%;
+    float: left;
+    background-color: #e8631c;
+    margin: 50px 42px ;
+    border-radius: 5px;
+}
+.black-box-part2 img{
+    margin: 50px 42px ;
+}
+.black-box-part2 h3{
+    margin: 30px 42px ;
+}
+.black-box-part2 h5{
+    margin: 30px 30px ;
+}
+.black-box-part3{
+    width: 25%;
+    float: left;
+    background-color: #e8631c;
+    margin: 50px 42px ;
+    border-radius: 5px;
+}
+.black-box-part3 img{
+    margin: 50px 42px ;
+}
+.black-box-part3 h3{
+    margin: 30px 42px ;
+}
+.black-box-part3 h5{
+    margin: 30px 30px ;
+}
+#black{
+    width: 100%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.black-button{
+    width: 90%;
+    color: white;
+    text-align: center;
+    background-color: #303030;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 15px ;
+}
+
+.double-part1{
+    width: 100%;
+    float: left;
+}
+.double-part1-column1{
+    width: 50%;
+    float: left;
+}
+.double-part1-column2{
+    width: 50%;
+    float: left;
+    background: url(../img/bg-black-part2.png) no-repeat center ;
+    background-size:cover;
+    text-align: center;
+    color: white;
+}   
+.double-part2{
+    width: 100%;
+    float: left;
+}
+.double-part2-column1{
+    width: 50%;
+    height: 50%;
+    float: left;
+    background: url(../img/bg-black-part2.png) no-repeat center ;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.double-part2-column2{
+    width: 50%;
+    float: left;
+}  
+.double-part1 img{
+    width: 100%;
+    float: left;
+    height: 25%;
+}
+.double-part2 img{
+    width: 100%;
+    float: left;
+    height: 50%;
+}
+
+.double-part1-column2 h1{
+    display: block;
+    padding: 50px 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.double-part1-column2 h4{
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 102px;
+}
+.double-part2-column1 h1{
+    display: block;
+    padding: 50px 20px;
+    text-align: center;
+    margin: auto;
+    margin-top: 200px;
+}
+.double-part2-column1 h4{
+    text-align: center;
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 101px;
+}
+#double button{
+    background-color: rgba(0, 0, 0, 0.808);
+    color: white;
+    margin: 50px auto;
+    padding: 20px 60px;
+    border-radius: 7px;
+    margin-bottom: 323px;
+}
+#double{
+    width: 100%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+#stat{
+    width: 100%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.stat-container{
+    width: 100%;
+    float: left;
+    background-color: #303030;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+.stat-h1{
+    margin:100px auto 50px;
+}
+.stat-writing-part p{
+    margin: 0px auto 50px;
+    padding: 0px 250px;
+}
+.stat-box-part{
+    width: 100%;
+    float: left;
+}
+.stat-box-part1{
+    width: 25%;
+    float: left;
+    background-color: transparent;
+    margin: 50px 42px ;
+    border-radius: 5px;
+}
+.stat-box-part2{
+    width: 25%;
+    float: left;
+    background-color: transparent;
+    margin: 50px 42px ;
+    border-radius: 5px;
+}
+.stat-box-part3{
+    width: 25%;
+    float: left;
+    background-color: transparent;
+    color: white;
+    margin: 50px 42px ;
+    border-radius: 5px;
+}
+#last{
+    width: 100%;
+    float: left;
+    color: white;
+    text-align: center;
+}
+.last-writing-part{
+    width: 100%;
+    float: left;
+    background: url(../img/bg-last.png) no-repeat center;
+}
+.last-writing-part h3{
+    margin: 200px auto 100px;
+    padding: 50px 200px 0px;
+    text-align: center;
+}
+.last-writing-part h2{
+    margin: 0px auto 400px;
+    padding: 0px 200px;
+    text-align: center;
+}
+.last-box-part{
+    width: 100%;
+    float: left;
+    background: url(../img/bg-last1.png) no-repeat center;
+}
+.last-box-part h1{
+    margin: 80px auto 50px;
+}
+.last-box-part h5{
+    margin: 0px auto 40px;
+    padding: 0px 400px;
+}
+.last-input{
+    width: 100%;
+    float: left;
+    margin: 30px auto 40px;
+}
+.last-input input{
+    background-color: white;
+    color: #303030;
+    margin: 30px right 40px;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+.last-input button{
+    background-color: rgba(0, 0, 0, 0.774);
+    color: white;
+    margin: 30px left 40px;
+    padding: 20px 60px;
+    border-radius: 5px;
+}
+footer{
+    width: 100%;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+}
+.footer-part1{
+    width: 55%;
+    float: left;
+    padding: 30px 100px 40px 15px;
+}
+.footer-part1 h6{
+    padding: 0px 0px 10px 0px;
+}
+.footer-part2{
+    width: 15%;
+    float: left;
+    padding: 20px 0px 20px 5px;
+}
+.footer-part3{
+    width: 15%;
+    float: left;
+    padding: 20px 0px 20px 5px;
+}
+.footer-part4{
+    width: 15%;
+    float: left;
+    padding: 20px 0px 20px 15px;
+}
+footer h4{
+    padding: 0px 0px 10px 0px;
+}
